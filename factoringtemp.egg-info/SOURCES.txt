@@ -1,0 +1,6 @@
+setup.py
+factoringtemp.egg-info/PKG-INFO
+factoringtemp.egg-info/SOURCES.txt
+factoringtemp.egg-info/dependency_links.txt
+factoringtemp.egg-info/not-zip-safe
+factoringtemp.egg-info/top_level.txt
